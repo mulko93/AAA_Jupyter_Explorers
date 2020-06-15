@@ -1,2 +1,4 @@
 .idea
+.ipynb_checkpoints
 data/output/Trips.csv
+data/output/Trips_Hexagons.csv
