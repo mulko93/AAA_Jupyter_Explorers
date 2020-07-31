@@ -1,0 +1,6 @@
+param,value,0
+test_size,0.3
+random_state,42.0
+epochs,20.0
+validation_size,0.28571428571428575
+pca_components,20.0
